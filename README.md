@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi! My name is Divyansh.
+========================================================================================================================================
 
-<!--
-**anshk08/anshk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer based in New, Delhi.
+<br/>
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,prisma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+<div >
+  <a href="https://portfolio-six-tau-90.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=&logoColor=blue" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/divyansh-95b124229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
