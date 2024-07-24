@@ -19,3 +19,10 @@ I am a Web Developer based in New, Delhi.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### Clients
+<div>
+  <a href="https://www.linkedin.com/in/divyansh-95b124229/">
+    Leadstera
+  </a>
+</div>
