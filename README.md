@@ -22,7 +22,7 @@ I am a Web Developer based in New, Delhi.
 
 ### Clients
 <div>
-  <a href="https://www.linkedin.com/in/divyansh-95b124229/">
+  <a href="https://leadstera.com" target="_blank">
     Leadstera
   </a>
 </div>
