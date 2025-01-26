@@ -12,12 +12,14 @@ I am a Web Developer based in New, Delhi.
 ### Socials
 
 <div >
+  <span>
   <a href="https://portfolio-six-tau-90.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=&logoColor=blue" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/divyansh-95b124229/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  </span>
 </div>
 
 ### Clients
