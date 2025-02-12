@@ -6,7 +6,7 @@ I am a Web Developer based in New, Delhi.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,ts,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,prisma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,prisma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 <br/>
 
 ### Socials
