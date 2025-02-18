@@ -1,4 +1,4 @@
-Hi! My name is Divyansh.
+Hi! My name is Divyansh Kanojia.
 ========================================================================================================================================
 
 I am a Web Developer based in New, Delhi.
